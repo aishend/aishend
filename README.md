@@ -10,10 +10,9 @@ I'm a Computer Science student at the University of Porto (FEUP)
 - 🧩 Competitive programming & algorithmic problem-solving 
 
 ### 🛠️ Tech Stack
-- **Languages:** C, C++, Java, Bash  
-- **Tools:** Git, Docker, VS Code, GCC, Make  
+- **Languages:** C, C++, Java, Bash   
 - **Platforms:** Linux (desktop & server), Android (root/custom ROMs), Arduino  
-- **Interests:** Cybersecurity, OS internals, embedded systems, open-source development  
+- **Interests:** OS internals, embedded systems, system's administration
 
 ### 📬 Get in touch
 - 🌐 [LinkedIn](https://linkedin.com/in/leandro-afonso-m/)  
