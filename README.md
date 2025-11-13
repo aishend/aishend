@@ -19,8 +19,8 @@ I'm a Computer Science student at the University of Porto (FEUP)
 - 💾 [GitHub](https://github.com/aishend)  
 
 ### ⚡ Fun fact
-When not coding or debugging scripts, I’m probably tuning a Linux kernel, doing a gym session, or responding to a fire call.
+I’m rn probably tuning a Linux kernel, doing a gym session, or responding to a fire call.
 
 ---
 
-🧭 _"Exploring systems, learning deeply, building freely."_
+🧭 _"Logic will get you from A to B. Imagination will take you everywhere."_
