@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Porto (FEUP)
 - 🎓 2nd-year BSc student in Informatics and Computing Engineering at FEUP.  
 - 🧠 Interested in system administration, and embedded systems.  
 - 💻 Daily Linux user (Arch/EndeavourOS & LineageOS enthusiast).  
-- 🔥 Volunteer firefighter and certified ambulance transport crew member (TAT).  
+- 🔥 Volunteer firefighter
 - 🧩 Competitive programming & algorithmic problem-solving 
 
 ### 🛠️ Tech Stack
