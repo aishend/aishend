@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**aishend/aishend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Porto (FEUP), passionate about systems, cybersecurity, and open-source technology.
 
-Here are some ideas to get you started:
+### 🚀 About me
+- 🎓 2nd-year BSc student in Informatics and Computing Engineering at FEUP.  
+- 🧠 Interested in system administration, and embedded systems.  
+- 💻 Daily Linux user (Arch/EndeavourOS & LineageOS enthusiast).  
+- 🔥 Volunteer firefighter and certified ambulance transport crew member (TAT).  
+- 🧩 Competitive programming & algorithmic problem-solving 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** C, C++, Java, Bash  
+- **Tools:** Git, Docker, VS Code, GCC, Make  
+- **Platforms:** Linux (desktop & server), Android (root/custom ROMs), Arduino  
+- **Interests:** Cybersecurity, OS internals, embedded systems, open-source development  
+
+### 📬 Get in touch
+- 🌐 [LinkedIn](https://linkedin.com/in/leandro-afonso-m/)  
+- 💾 [GitHub](https://github.com/aishend)  
+
+### ⚡ Fun fact
+When not coding or debugging scripts, I’m probably tuning a Linux kernel, doing a gym session, or responding to a fire call.
+
+---
+
+🧭 _"Exploring systems, learning deeply, building freely."_
