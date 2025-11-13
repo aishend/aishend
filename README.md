@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Computer Science student at the University of Porto (FEUP), passionate about systems, cybersecurity, and open-source technology.
+I'm a Computer Science student at the University of Porto (FEUP)
 
 ### 🚀 About me
 - 🎓 2nd-year BSc student in Informatics and Computing Engineering at FEUP.  
