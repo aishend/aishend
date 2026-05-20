@@ -1,5 +1,5 @@
 # Leandro Moreira
-** Computer Engineering @ FEUP | Porto, Portugal**
+Computer Engineering @ FEUP | Porto, Portugal*
 
 [LinkedIn](https://www.linkedin.com/in/leandro-afonso-m/)
 
