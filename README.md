@@ -1,14 +1,1 @@
-# hey, i'm leandro
-
-probably ricing my linux right now.
-i like building things that actually work, reading about technology, and occasionally breaking my setup just to fix it again.
-
----
-
-**setup:**
-- cachyos + hyprland
-- vscode (not vim, not even the keybindings — judge me, maybe one day)
-- proudly apple-free
-
----
-
+<h1 align="center">leandro</h1> <p align="center"> building things worth using · reading about tech · breaking my setup on purpose </p> <br> <p align="center"> <code>CachyOS</code> · <code>Hyprland</code> · <sub>Windows only when unavoidable</sub> </p> <br> <p align="center"> <sub>currently ricing.</sub> </p>
