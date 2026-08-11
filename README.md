@@ -1,1 +1,1 @@
-<h1 align="center">leandro</h1> <p align="center"> building things worth using · reading about tech · breaking my setup on purpose </p> <br> <p align="center"> <code>CachyOS</code> · <code>Hyprland</code> · <sub>Windows only when unavoidable</sub> </p> <br> <p align="center"> <sub>currently ricing.</sub> </p>
+<h1 align="center">leandro</h1> <p align="center"> software engineering @ FEUP, Porto </p> <br> <p align="center"> <code>CachyOS</code> · <code>Hyprland</code> </p> <br> <p align="center"> <sub>currently ricing.</sub> </p>
