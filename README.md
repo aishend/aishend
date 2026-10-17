@@ -1,1 +1,1 @@
-<h1 align="center">leandro</h1> <p align="center"> software engineering @ FEUP, Porto </p> <br> <p align="center"> <code>CachyOS</code> · <code>Cosmic</code> </p> <br> <p align="center"> <sub>currently ricing.</sub> </p>
+<h1 align="center">leandro</h1> <p align="center"> software engineering @ FEUP, Porto </p> <br> <p align="center"> <code>CachyOS</code> · <code>Cosmic</code> </p> <br> <p align="center"> <sub>currently building.</sub> </p>
